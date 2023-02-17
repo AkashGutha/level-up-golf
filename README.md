@@ -36,3 +36,33 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+## Level up golf - Landing Page description
+
+This is a landing page for a golf course. It is a static site built with Next.js and Tailwind CSS. It is deployed on Vercel.
+
+## Features
+
+- Fully responsive
+- Schedule booking form
+- Blog
+- Gallery
+- Contact us form
+- Locations - map with markers
+
+## Technologies
+
+- Next.js
+- Tailwind CSS
+- TypeScript
+- Vercel
+
+## Sitemap
+
+- Home
+- About
+- Contact
+- Booking
+- Gallery
+- Blog
+- Locations

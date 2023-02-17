@@ -7,16 +7,16 @@ export default function Header() {
       <div className="flex flex-row items-center justify-between">
         {/* Navigation items */}
         <ul className="flex flex-row items-center justify-between">
-          <li className="mr-4">
+          <li className="mr-6">
             <Link href="/">{"Home"}</Link>
           </li>
-          <li className="mr-4">
+          <li className="mr-6">
             <Link href="/about">{"About"}</Link>
           </li>
-          <li className="mr-4">
+          <li className="mr-6">
             <Link href="/contact">{"Contact"}</Link>
           </li>
-          <li className="mr-4">
+          <li className="mr-6">
             <Link href="/gallery">{"Gallery"}</Link>
             </li>
         </ul>
@@ -25,7 +25,7 @@ export default function Header() {
         <div className="flex flex-row items-center justify-between">
           <Link href="/">
             <Image
-              src="/next.svg"
+              src="/logo.png"
               alt="Level up golf"
               width={100}
               height={100}
